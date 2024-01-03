@@ -39,3 +39,6 @@
 # Ignore vendor directory.
 /vendor/cache/*
 /vendor/specifications/*
+
+# Ignore ' ' file
+/''/*
